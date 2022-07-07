@@ -45,7 +45,7 @@
                name = "login">Login</button>
          </form>
 			
-         Logout <a href = "logout.php" tite = "Logout">.
+         Logout <a href = "logout.php" tite = "Logout"> here
          
       </div> 
       
